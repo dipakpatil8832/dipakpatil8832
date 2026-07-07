@@ -1,18 +1,78 @@
-# 💫 About Me:
-My name is Dipak Patil , <br>I have core intrest in python programing language , Data Analysis And Visualization, Artificial intelligence,<br>Machine Learning especially in woring with data , building models and solving real wolrd problems using AI.<br><br>I am currently  working at  Innomatics reaserch lab as a intern in the domain of Data Science.<br>
+<div align="center">
 
+# Dipak Patil
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dp431533@gmail.com) 
+**Data Science Intern &nbsp;|&nbsp; Python Developer &nbsp;|&nbsp; Machine Learning Enthusiast**
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dipakpatil8832&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dipakpatil8832&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dipakpatil8832&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dp431533@gmail.com)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=dipakpatil8832&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About
+
+Data Science Intern at **Innomatics Research Lab**, focused on data analysis, visualization, and machine learning. Experienced in working with real-world datasets — from cleaning and exploration to building predictive models — with a strong interest in applying AI to solve practical problems.
+
+---
+
+## Technical Skills
+
+| Category | Tools & Technologies |
+|---|---|
+| **Languages** | Python, C |
+| **Databases** | MySQL |
+| **Data Analysis** | Pandas, NumPy |
+| **Data Visualization** | Matplotlib, Seaborn, Power BI |
+| **Machine Learning** | scikit-learn |
+| **Web Framework** | Django |
+
+---
+
+## Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dipakpatil8832/dipakpatil8832/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dipakpatil8832/dipakpatil8832/output/github-contribution-grid-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/dipakpatil8832/dipakpatil8832/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+
+*Auto-generated daily via GitHub Actions.*
+
+---
+
+## GitHub Overview
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=dipakpatil8832&theme=default&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" height="165"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=dipakpatil8832&theme=default&hide_border=true" alt="GitHub Streak" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipakpatil8832&theme=default&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" height="165"/>
+
+</div>
+
+---
+
+## Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+*Auto-updated every 30 minutes via GitHub Actions.*
+
+---
+
+## Contact
+
+For collaboration, opportunities, or questions, feel free to reach out via email above.
+
+<div align="center">
+
+<sub>Profile views: <img src="https://profile-counter.glitch.me/dipakpatil8832/count.svg" alt="Profile Views" height="14"/></sub>
+
+</div>
