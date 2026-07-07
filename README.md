@@ -2,7 +2,7 @@
 
 # Dipak Patil
 
-**Data Science Intern &nbsp;|&nbsp; Python Developer &nbsp;|&nbsp; Machine Learning Enthusiast**
+**Data Science Intern &nbsp;|&nbsp; Machine Learning Enthusiast**
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dp431533@gmail.com)
 
