@@ -24,8 +24,9 @@ Data Science Intern at **Innomatics Research Lab**, focused on data analysis, vi
 | **Databases** | MySQL |
 | **Data Analysis** | Pandas, NumPy |
 | **Data Visualization** | Matplotlib, Seaborn, Power BI |
-| **Machine Learning** | scikit-learn |
-| **Web Framework** | Django |
+| **Machine Learning** | scikit-learn, PyTorch |
+| **Gen AI**   | LangChain, LLM, RAG, Transformers |
+| **Web Framework** | Django, Streamlit |
 
 ---
 
